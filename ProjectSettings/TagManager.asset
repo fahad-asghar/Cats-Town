@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Abyssinian
+  - American Curl
+  - Aegean
+  - American Bobtail
+  - American Shorthair
+  - American Wirehair
+  - Arabian Mau
+  - Australian Mist
+  - Asian Semi-longhair
+  - Balinese
+  - Asian
+  - Bambino
+  - Bengal
+  - Birman
+  - Bombay
+  - Brazilian Shorthair
+  - British Longhair
+  - British Shorthair
+  - Burmese
+  - Burmilla
+  - California Spangled
+  - Chantilly-Tiffany
+  - Chartreux
+  - Chausie
+  - Cheetoh
+  - Colorpoint Shorthair
+  - Cornish Rex
+  - Cymric
+  - Cyprus
+  - Devon Rex
+  - Donskoy
+  - Dragon Li
+  - Dwarf
+  - Egyptian Mau
+  - European Shorthair
+  - Exotic Shorthair
+  - Foldex
+  - German Rex
+  - Havana Brown
+  - Highlander
+  - Himalayan
+  - Japanese Bobtail
+  - Javanese
+  - Kurilian Bobtail
+  - Khao Manee
+  - Korat
+  - Korean Bobtail
+  - Korn Ja
+  - LaPerm
+  - Lykoi
+  - Thai
+  - Turkish Angora
+  - Scottish Fold
+  - Platform
+  - Kennel
+  - Sell
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Drag
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Drag
+    uniqueID: 440882663
+    locked: 0
+  - name: UI
+    uniqueID: 3635888905
+    locked: 0
